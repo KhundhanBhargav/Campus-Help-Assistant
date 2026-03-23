@@ -1,0 +1,7 @@
+[
+  "tests/test_chat_api.py::test_chat_empty_question",
+  "tests/test_chat_api.py::test_chat_valid_request",
+  "tests/test_chat_api.py::test_health_endpoint",
+  "tests/test_chat_api.py::test_known_question_returns_grounded_answer",
+  "tests/test_chat_api.py::test_unknown_question_returns_no_answer"
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "chunk_1",
+    "section_title": "Attendance Policy",
+    "text": "Section 1: Attendance Policy\nStudents must maintain at least 75 percent attendance in each subject to be eligible for semester examinations. If attendance falls below 75 percent due to medical reasons, students may apply for condonation by submitting medical proof to the academic office before the announced deadline. If attendance is below 65 percent, the student is not eligible for condonation.",
+    "source_file": "campus_handbook.txt"
+  },
+  {
+    "chunk_id": "chunk_2",
+    "section_title": "Library Rules",
+    "text": "Section 2: Library Rules\nStudents can borrow up to 3 books at a time from the library. Books must be returned within 14 days from the date of issue. A late return fine of 5 rupees per day per book will be charged. If a borrowed book is lost, the student must either replace the book or pay the cost decided by the library administration.",
+    "source_file": "campus_handbook.txt"
+  },
+  {
+    "chunk_id": "chunk_3",
+    "section_title": "Hostel Fee Payment",
+    "text": "Section 3: Hostel Fee Payment\nHostel fees must be paid before the beginning of each semester. A grace period of 7 days is allowed after the due date. If the fee is not paid within the grace period, a late fee of 200 rupees is charged. Continued non-payment may lead to hostel access restrictions until the dues are cleared.",
+    "source_file": "campus_handbook.txt"
+  },
+  {
+    "chunk_id": "chunk_4",
+    "section_title": "Examination Revaluation",
+    "text": "Section 4: Examination Revaluation\nStudents who are not satisfied with their exam results can apply for revaluation within 5 working days from the date of result publication. The revaluation fee is 500 rupees per subject. Revaluation results are normally published within 15 working days after the application deadline.",
+    "source_file": "campus_handbook.txt"
+  },
+  {
+    "chunk_id": "chunk_5",
+    "section_title": "ID Card Replacement",
+    "text": "Section 5: ID Card Replacement\nIf a student loses the campus ID card, the student must report it immediately to the administration office. A duplicate ID card can be requested by submitting a written application. The duplicate card fee is 300 rupees. The new ID card is usually issued within 3 working days after fee payment and approval.",
+    "source_file": "campus_handbook.txt"
+  },
+  {
+    "chunk_id": "chunk_6",
+    "section_title": "Scholarship Renewal",
+    "text": "Section 6: Scholarship Renewal\nStudents receiving merit scholarships must maintain a minimum GPA of 8.0 at the end of every academic year. Scholarship renewal is reviewed once per year. If the GPA falls below 8.0, the scholarship may be discontinued for the following academic year.",
+    "source_file": "campus_handbook.txt"
+  }
+]
